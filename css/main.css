@@ -1,0 +1,28 @@
+/**body css */
+body {
+			margin:0;
+		}
+div {
+				width:30%;
+				float:left;
+				}		
+.first {
+	background-color:red;
+}
+.second {
+	background-color:blue;
+}
+.third {
+	background-color:green;
+}
+.two {
+	color:blue;
+}
+.one{
+		color:red;
+		font-size:100px;
+
+	}
+	
+	
+	
